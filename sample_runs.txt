@@ -1,0 +1,374 @@
+//=========================== test run1
+
+Bet Choices
+0 - 36: Play
+O: Play Odd
+E: Play Even
+R: Play Red
+B: Play Black
+F: Play first 1/3 (1-12)
+S: Play second 1/3 (13-24)
+T: Play third 1/3 (25-36)
+Enter your choice: e
+Enter you bet: 20
+Continue with betting? (y for yes): y
+
+Bet Choices
+0 - 36: Play
+O: Play Odd
+E: Play Even
+R: Play Red
+B: Play Black
+F: Play first 1/3 (1-12)
+S: Play second 1/3 (13-24)
+T: Play third 1/3 (25-36)
+Enter your choice: r
+Enter you bet: 15
+Continue with betting? (y for yes): n
+
+The winning number is = 25
+The color is red
+You won $30.00
+Play again?
+y
+Bet Choices
+0 - 36: Play
+O: Play Odd
+E: Play Even
+R: Play Red
+B: Play Black
+F: Play first 1/3 (1-12)
+S: Play second 1/3 (13-24)
+T: Play third 1/3 (25-36)
+Enter your choice: b
+Enter you bet: 30
+Continue with betting? (y for yes): y
+
+Bet Choices
+0 - 36: Play
+O: Play Odd
+E: Play Even
+R: Play Red
+B: Play Black
+F: Play first 1/3 (1-12)
+S: Play second 1/3 (13-24)
+T: Play third 1/3 (25-36)
+Enter your choice: o
+Enter you bet: 20
+Continue with betting? (y for yes): n
+
+The winning number is = 19
+The color is red
+You won $40.00
+Play again?
+y
+Bet Choices
+0 - 36: Play
+O: Play Odd
+E: Play Even
+R: Play Red
+B: Play Black
+F: Play first 1/3 (1-12)
+S: Play second 1/3 (13-24)
+T: Play third 1/3 (25-36)
+Enter your choice: e
+Enter you bet: 25
+Continue with betting? (y for yes): y
+
+Bet Choices
+0 - 36: Play
+O: Play Odd
+E: Play Even
+R: Play Red
+B: Play Black
+F: Play first 1/3 (1-12)
+S: Play second 1/3 (13-24)
+T: Play third 1/3 (25-36)
+Enter your choice: r
+Enter you bet: 10
+Continue with betting? (y for yes): n
+
+The winning number is = 8
+The color is black
+You won $50.00
+Play again?
+y
+Bet Choices
+0 - 36: Play
+O: Play Odd
+E: Play Even
+R: Play Red
+B: Play Black
+F: Play first 1/3 (1-12)
+S: Play second 1/3 (13-24)
+T: Play third 1/3 (25-36)
+Enter your choice: s
+Enter you bet: 45
+Continue with betting? (y for yes): y
+
+Bet Choices
+0 - 36: Play
+O: Play Odd
+E: Play Even
+R: Play Red
+B: Play Black
+F: Play first 1/3 (1-12)
+S: Play second 1/3 (13-24)
+T: Play third 1/3 (25-36)
+Enter your choice: e
+Enter you bet: 96
+Continue with betting? (y for yes): n
+
+The winning number is = 33
+The color is black
+You won $0.00
+Play again?
+y
+Bet Choices
+0 - 36: Play
+O: Play Odd
+E: Play Even
+R: Play Red
+B: Play Black
+F: Play first 1/3 (1-12)
+S: Play second 1/3 (13-24)
+T: Play third 1/3 (25-36)
+Enter your choice: t
+Enter you bet: 10
+Continue with betting? (y for yes): y
+
+Bet Choices
+0 - 36: Play
+O: Play Odd
+E: Play Even
+R: Play Red
+B: Play Black
+F: Play first 1/3 (1-12)
+S: Play second 1/3 (13-24)
+T: Play third 1/3 (25-36)
+Enter your choice: r
+Enter you bet: 15
+Continue with betting? (y for yes): n
+
+The winning number is = 2
+The color is black
+You won $0.00
+Play again?
+y
+Bet Choices
+0 - 36: Play
+O: Play Odd
+E: Play Even
+R: Play Red
+B: Play Black
+F: Play first 1/3 (1-12)
+S: Play second 1/3 (13-24)
+T: Play third 1/3 (25-36)
+Enter your choice: r
+Enter you bet: 96
+Continue with betting? (y for yes): y
+
+Bet Choices
+0 - 36: Play
+O: Play Odd
+E: Play Even
+R: Play Red
+B: Play Black
+F: Play first 1/3 (1-12)
+S: Play second 1/3 (13-24)
+T: Play third 1/3 (25-36)
+Enter your choice: f
+Enter you bet: 35
+Continue with betting? (y for yes): n
+
+The winning number is = 31
+The color is black
+You won $0.00
+Play again?
+y
+Bet Choices
+0 - 36: Play
+O: Play Odd
+E: Play Even
+R: Play Red
+B: Play Black
+F: Play first 1/3 (1-12)
+S: Play second 1/3 (13-24)
+T: Play third 1/3 (25-36)
+Enter your choice: s
+Enter you bet: 22
+Continue with betting? (y for yes): y
+
+Bet Choices
+0 - 36: Play
+O: Play Odd
+E: Play Even
+R: Play Red
+B: Play Black
+F: Play first 1/3 (1-12)
+S: Play second 1/3 (13-24)
+T: Play third 1/3 (25-36)
+Enter your choice: e
+Enter you bet: 78
+Continue with betting? (y for yes): y
+
+Bet Choices
+0 - 36: Play
+O: Play Odd
+E: Play Even
+R: Play Red
+B: Play Black
+F: Play first 1/3 (1-12)
+S: Play second 1/3 (13-24)
+T: Play third 1/3 (25-36)
+Enter your choice: b
+Enter you bet: 24
+Continue with betting? (y for yes): y
+
+Bet Choices
+0 - 36: Play
+O: Play Odd
+E: Play Even
+R: Play Red
+B: Play Black
+F: Play first 1/3 (1-12)
+S: Play second 1/3 (13-24)
+T: Play third 1/3 (25-36)
+Enter your choice: s
+Enter you bet: 22
+Continue with betting? (y for yes): n
+
+The winning number is = 10
+The color is black
+You won $204.00
+Play again?
+
+
+//================================= test run2
+
+Bet Choices
+0 - 36: Play
+O: Play Odd
+E: Play Even
+R: Play Red
+B: Play Black
+F: Play first 1/3 (1-12)
+S: Play second 1/3 (13-24)
+T: Play third 1/3 (25-36)
+Enter your choice: 
+Invalid bet choice-- no bet placed!
+Continue with betting? (y for yes): y
+
+Bet Choices
+0 - 36: Play
+O: Play Odd
+E: Play Even
+R: Play Red
+B: Play Black
+F: Play first 1/3 (1-12)
+S: Play second 1/3 (13-24)
+T: Play third 1/3 (25-36)
+Enter your choice: 90
+Invalid Bet! Usage: (0-36), O, E, R, B, F, S, T.
+Continue with betting? (y for yes): y
+
+Bet Choices
+0 - 36: Play
+O: Play Odd
+E: Play Even
+R: Play Red
+B: Play Black
+F: Play first 1/3 (1-12)
+S: Play second 1/3 (13-24)
+T: Play third 1/3 (25-36)
+Enter your choice: -
+Invalid Bet! Usage: (0-36), O, E, R, B, F, S, T.
+Continue with betting? (y for yes): y
+
+Bet Choices
+0 - 36: Play
+O: Play Odd
+E: Play Even
+R: Play Red
+B: Play Black
+F: Play first 1/3 (1-12)
+S: Play second 1/3 (13-24)
+T: Play third 1/3 (25-36)
+Enter your choice: -1
+Invalid Bet! Usage: (0-36), O, E, R, B, F, S, T.
+Continue with betting? (y for yes): y
+
+Bet Choices
+0 - 36: Play
+O: Play Odd
+E: Play Even
+R: Play Red
+B: Play Black
+F: Play first 1/3 (1-12)
+S: Play second 1/3 (13-24)
+T: Play third 1/3 (25-36)
+Enter your choice: 0
+Enter you bet: 20
+Continue with betting? (y for yes): y
+
+Bet Choices
+0 - 36: Play
+O: Play Odd
+E: Play Even
+R: Play Red
+B: Play Black
+F: Play first 1/3 (1-12)
+S: Play second 1/3 (13-24)
+T: Play third 1/3 (25-36)
+Enter your choice: r
+Enter you bet: -
+Invalid Bet! Usage: (interger > 0).
+
+Continue with betting? (y for yes): y
+
+Bet Choices
+0 - 36: Play
+O: Play Odd
+E: Play Even
+R: Play Red
+B: Play Black
+F: Play first 1/3 (1-12)
+S: Play second 1/3 (13-24)
+T: Play third 1/3 (25-36)
+Enter your choice: r
+Enter you bet: g
+Invalid Bet! Usage: (interger > 0).
+
+Continue with betting? (y for yes): y
+
+Bet Choices
+0 - 36: Play
+O: Play Odd
+E: Play Even
+R: Play Red
+B: Play Black
+F: Play first 1/3 (1-12)
+S: Play second 1/3 (13-24)
+T: Play third 1/3 (25-36)
+Enter your choice: r
+Enter you bet: 12
+Continue with betting? (y for yes): y
+
+Bet Choices
+0 - 36: Play
+O: Play Odd
+E: Play Even
+R: Play Red
+B: Play Black
+F: Play first 1/3 (1-12)
+S: Play second 1/3 (13-24)
+T: Play third 1/3 (25-36)
+Enter your choice: o
+Enter you bet: 55558644
+Continue with betting? (y for yes): n
+
+The winning number is = 34
+The color is red
+You won $24.00
+Play again?
+
